@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaisonJoseph
 - 👀 I’m working on on stock analysis using sentiment  analysis.
-- 🌱 I’m currently learning JS,Node Js
+- 🌱 I’m currently learning JS, Node.Js
 - 📫 How to reach me ... https://linktr.ee/DarkDetonato
 
 <!---
